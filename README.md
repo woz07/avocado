@@ -1,5 +1,5 @@
 # Avocado
-Avocado is a programming language created to simplify learning the basics of low level languages like assembly.
+Avocado is a programming language created to simplify learning the basics of low level languages like MIPS.
 
 ## What
 Avocado was created to simplify the process of learning languages the basics of low level languages.
