@@ -11,6 +11,13 @@ Avocado allows the developer to get hands on a virtual memory and has syntax qui
 
 # Documentation
 > Note: Before going any further, it's best if you already have knowledge on core features within programming languages
+## Comments
+To write a comment within your code, you must use the '#' special symbol.
+You can only do single line comments and there is no way to do multiple line comments.
+```
+# This is a single line comment
+# This is the single line comment continued on
+```
 ## Types
 Avocado offers 4 different types to keep things simple, these being; string, int, char and float.
 ### String
