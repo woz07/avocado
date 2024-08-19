@@ -18,4 +18,9 @@ Avocado offers 4 different types to keep things simple, these being; string, int
 ### Char
 Char, also known as character, is a type that stores 1 character and requires the the value to be encapsulated within a 
 opening ' and closing '.
+```
+char x = 'x'   # This is valid
+char y = "y"   # This is NOT valid
+char z = "xyc" # This is NOT valid
+```
 ### Float
