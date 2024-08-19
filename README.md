@@ -10,3 +10,12 @@ Avocado allows the developer to get hands on a virtual memory and has syntax qui
 > language that gives you a taste of low level languages via it's syntax and it's features.
 
 # Documentation
+> Note: Before going any further, it's best if you already have knowledge on core features within programming languages
+## Types
+Avocado offers 4 different types to keep things simple, these being; string, int, char and float.
+### String
+### Int
+### Char
+Char, also known as character, is a type that stores 1 character and requires the the value to be encapsulated within a 
+opening ' and closing '.
+### Float
