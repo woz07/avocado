@@ -45,8 +45,8 @@ Char, also known as character, is a type that stores 1 character and requires th
 opening ' and closing '.
 ```
 char x = 'x'    # This is valid
-char y = "y"    # This is NOT valid
-char z = "xyc"  # This is NOT valid
+char y = "y"    # This is invalid
+char z = "xyc"  # This is invalid
 ```
 ### Float
 Float, also known as decimal number, stores numbers that have decimals in them. Also since there is no double that means that float 
