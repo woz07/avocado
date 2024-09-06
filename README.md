@@ -11,7 +11,7 @@ Avocado allows the developer to get hands on a virtual memory and has syntax qui
 
 # Documentation
 > Note: Before going any further, it's best if you already have knowledge on core features within programming languages
-## End of code
+## End of statement/line
 Unlike C/C++, when you have finished writing your line you don't need to add a ';' at the end of your line
 ```
 some_function(some_param: some_type); # This is invalid
